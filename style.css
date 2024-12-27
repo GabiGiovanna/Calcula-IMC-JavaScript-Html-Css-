@@ -1,0 +1,47 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+
+form {
+    text-align: center;
+    height: 60vh;
+    width: 30vw;
+    padding: 25px;
+    margin-top: 15px;
+    align-content: center;
+    align-items: center;
+    
+  }
+  
+  .entradas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .btn {
+    width: 13vw;
+    height: 6vh;
+    padding: 5px;
+    margin-top: 30px;
+    box-shadow: 3px 3px 10px 10px #276873;
+}
+  
+  input {
+    padding: 5px;
+    margin-top: 15px;
+  }
+  
+  .altura {
+    display: flex;
+    flex-direction: column;
+  }
+  
+
+  
